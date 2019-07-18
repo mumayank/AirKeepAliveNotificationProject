@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AirKeepAliveNotification</string>
+
+    <string name="persistent_notification_service_description">This service is necessary to always run in the background, to deliver all the critical updates.</string>
+    <string name="notification_channel_id_high_priority">High priority</string>
+    <string name="notification_channel_id_low_priority">Low priority</string>
+</resources>
